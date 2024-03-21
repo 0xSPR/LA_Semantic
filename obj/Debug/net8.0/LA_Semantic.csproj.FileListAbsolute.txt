@@ -1,0 +1,15 @@
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/bin/Debug/net8.0/LA_Semantic
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/bin/Debug/net8.0/LA_Semantic.deps.json
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/bin/Debug/net8.0/LA_Semantic.runtimeconfig.json
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/bin/Debug/net8.0/LA_Semantic.dll
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/bin/Debug/net8.0/LA_Semantic.pdb
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/obj/Debug/net8.0/LA_Semantic.GeneratedMSBuildEditorConfig.editorconfig
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/obj/Debug/net8.0/LA_Semantic.AssemblyInfoInputs.cache
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/obj/Debug/net8.0/LA_Semantic.AssemblyInfo.cs
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/obj/Debug/net8.0/LA_Semantic.csproj.CoreCompileInputs.cache
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/obj/Debug/net8.0/LA_Semantic.sourcelink.json
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/obj/Debug/net8.0/LA_Semantic.dll
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/obj/Debug/net8.0/refint/LA_Semantic.dll
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/obj/Debug/net8.0/LA_Semantic.pdb
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/obj/Debug/net8.0/LA_Semantic.genruntimeconfig.cache
+/home/arpnic/Documents/Fleet/LAII/LA_Semantic/obj/Debug/net8.0/ref/LA_Semantic.dll
